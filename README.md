@@ -1,2 +1,2 @@
-# Metodos-Num-ricos-
+# Metodos-Numericos-
 Paquete final
